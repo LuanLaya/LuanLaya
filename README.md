@@ -9,8 +9,8 @@
 
 <div align="center" style="margin-top: 15px;">
   <img 
-    src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png" 
-    alt="R2-D2 Style Mascot" 
+    src="https://raw.githubusercontent.com/LuanLaya/LuanLaya/main/R2D2_Hacker.gif" 
+    alt="R2-D2 Animado" 
     width="120" 
     style="filter: drop-shadow(0 0 10px #00D4FF);"
   />
