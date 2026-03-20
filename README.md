@@ -9,7 +9,7 @@
 
 <div align="center" style="margin-top: 15px;">
   <img 
-    src="https://raw.githubusercontent.com/LuanLaya/LuanLaya/main/R2D2_Hacker.gif" 
+    src="https://media.giphy.com/media/l41lSdh3wY3Mh5DBC/giphy.gif" 
     alt="R2-D2 Animado" 
     width="120" 
     style="filter: drop-shadow(0 0 10px #00D4FF);"
