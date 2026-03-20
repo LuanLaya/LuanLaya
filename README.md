@@ -9,9 +9,10 @@
 
 <div align="center" style="margin-top: 15px;">
   <img 
-    src="https://media.giphy.com/media/l41lSdh3wY3Mh5DBC/giphy.gif" 
+    src="https://raw.githubusercontent.com/LuanLaya/LuanLaya/main/R2-D2.gif" 
+    onerror="this.src='https://media.tenor.com/tHghx0G1_m8AAAAi/star-wars-r2d2.gif'"
     alt="R2-D2 Animado" 
-    width="120" 
+    width="100" 
     style="filter: drop-shadow(0 0 10px #00D4FF);"
   />
 </div>
