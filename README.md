@@ -1,11 +1,18 @@
 <div align="center">
   <a href="https://git.io/typing-svg" style="text-decoration:none;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=00D4FF&center=true&vCenter=true&width=550&lines=Codificando+o+Futuro...;Luan+Laya+|+Desenvolvedor+Web;Focado+em+C%23+e+MySQL" alt="Typing SVG" />
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=00D4FF&center=true&vCenter=true&width=550&lines=Codificando+o+Futuro...;Luan+Laya+|+Desenvolvedor+Web;Focado+em+C%23+e+MySQL" 
+      alt="Typing SVG"
+    />
   </a>
 </div>
 
 <div align="center" style="margin-top: 15px;">
-  <img src="r2d2.gif" width="120" style="filter: drop-shadow(0 0 10px #00D4FF);" />
+  <img 
+    src="r2d2.gif" 
+    width="120" 
+    style="filter: drop-shadow(0 0 10px #00D4FF);"
+  />
 </div>
 
 <h2 align="center" style="color: #00D4FF; margin-top: 20px;">⚡ Stack Técnico</h2>
@@ -18,13 +25,13 @@
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   </div>
-  <p style="color: #00D4FF; font-family: 'Courier New', monospace; margin-top: 15px;">
-    > "Codificando o futuro, um banco de dados por vez."
-  </p>
 </div>
 
 <h2 align="center" style="color: #00D4FF; margin-top: 20px;">📊 Estatísticas</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuanLaya&show_icons=true&theme=tokyonight&bg_color=000000&title_color=00D4FF&text_color=ffffff&icon_color=00D4FF" alt="GitHub Stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=LuanLaya&show_icons=true&theme=tokyonight&bg_color=000000&title_color=00D4FF&text_color=ffffff&icon_color=00D4FF" 
+    alt="GitHub Stats"
+  />
 </div>
