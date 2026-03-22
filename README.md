@@ -1,20 +1,11 @@
 <div align="center">
   <a href="https://git.io/typing-svg" style="text-decoration:none;">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=00D4FF&center=true&vCenter=true&width=550&lines=Codificando+o+Futuro...;Luan+Laya+|+Desenvolvedor+Web;Focado+em+C%23+e+MySQL" 
-      alt="Typing SVG"
-    />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=00D4FF&center=true&vCenter=true&width=550&lines=Codificando+o+Futuro...;Luan+Laya+|+Desenvolvedor+Web;Focado+em+C%23+e+MySQL" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center" style="margin-top: 15px;">
-  <img 
-    src="https://raw.githubusercontent.com/LuanLaya/LuanLaya/main/R2-D2.gif" 
-    onerror="this.src='https://media.giphy.com/media/l41lSdh3wY3Mh5DBC/giphy.gif'"
-    alt="R2-D2 Animado" 
-    width="120"
-    style="filter: drop-shadow(0 0 10px #00D4FF);"
-  />
+  <img src="r2d2.gif" width="120" style="filter: drop-shadow(0 0 10px #00D4FF);" />
 </div>
 
 <h2 align="center" style="color: #00D4FF; margin-top: 20px;">⚡ Stack Técnico</h2>
@@ -35,8 +26,5 @@
 <h2 align="center" style="color: #00D4FF; margin-top: 20px;">📊 Estatísticas</h2>
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=LuanLaya&show_icons=true&theme=tokyonight&bg_color=000000&title_color=00D4FF&text_color=ffffff&icon_color=00D4FF" 
-    alt="GitHub Stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=LuanLaya&show_icons=true&theme=tokyonight&bg_color=000000&title_color=00D4FF&text_color=ffffff&icon_color=00D4FF" alt="GitHub Stats" />
 </div>
