@@ -9,10 +9,9 @@
 
 <div align="center" style="margin-top: 15px;">
   <img 
-    src="https://github.com/user-attachments/assets/99b80d1e-77b5-49cf-804c-511bf95c479b" 
+    src="https://github.com/LuanLaya/LuanLaya/blob/main/r2d2.gif" 
     alt="R2-D2 Animado" 
     width="120" 
-    style="filter: drop-shadow(0 0 10px #00D4FF);"
   />
 </div>
 
