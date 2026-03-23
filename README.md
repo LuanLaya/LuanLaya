@@ -9,7 +9,8 @@
 
 <div align="center" style="margin-top: 15px;">
   <img 
-    src="r2d2.gif" 
+    src="https://github.com/user-attachments/assets/99b80d1e-77b5-49cf-804c-511bf95c479b" 
+    alt="R2-D2 Animado" 
     width="120" 
     style="filter: drop-shadow(0 0 10px #00D4FF);"
   />
@@ -25,6 +26,9 @@
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   </div>
+  <p style="color: #00D4FF; font-family: 'Courier New', monospace; margin-top: 15px;">
+    > "Codificando o futuro, um banco de dados por vez."
+  </p>
 </div>
 
 <h2 align="center" style="color: #00D4FF; margin-top: 20px;">📊 Estatísticas</h2>
